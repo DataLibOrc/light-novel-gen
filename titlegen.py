@@ -22,7 +22,7 @@ fourth = ['a washing machine', 'my coworker', 'a cannibal','a family pet', 'a de
          'a secret agent', 'a spy', 'a dungeon gremlin', 'a guild leader', 'an MMO healslut',
          'a real-life furry', 'a Silicon Valley tech bro', 'a computer program', 'a cat', 'a Vocaloid', 'a mad scientist', 'a slime girl', 
          ' a monster-girl', 'a monster-boy', 'my bara fantasy', 'your anime crush', 'my waifu', 'your waifu', 'an incel', 'a neckbeard', 
-         'a member of the Real Housewives', ]
+         'a member of the Real Housewives', 'an Orc', 'a Furry', 'a Mastodon Instance Admin' ]
 
 fourthcomma = [',']
 
