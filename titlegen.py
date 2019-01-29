@@ -44,8 +44,9 @@ def gen_titles():
 
 #Show title list
 def show_titles() :
-    print (random.choice (titles))
-
+    finaltitle = [random.choice(titles)]
+    for t in finaltitle:
+        print(' '.join(t))
 #run combos
 gen_titles()
 
