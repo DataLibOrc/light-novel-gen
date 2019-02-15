@@ -12,7 +12,8 @@ zeroth = ['My', 'My Girlfriend\'s ', 'My Teacher\'s', 'My Senpai\'s', 'My Boss\'
 
 first = ['Sister', 'Step Sister', 'Brother', 'Kid Brother', 'Cat', 'Dog', 'Step Dog', 'Mother',
          'Father', 'Kid Sister', 'Twin Sister', 'Twin Brother', 'Step Father', 'Cute Neighbor',
-         'Ghost of my Grandmother', 'Sandwich', 'Demon', 'Grandmother', 'Butler']
+         'Ghost of my Grandmother', 'Sandwich', 'Demon', 'Grandmother', 'Butler', 'Mother', 'Father',
+         'Senpai', 'Step-senpai', 'Government Assigned Partner']
 
 second = ['is','was']
 
