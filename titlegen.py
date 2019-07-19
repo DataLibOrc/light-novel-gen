@@ -1,7 +1,7 @@
 # titlegen.py
 # Light Novel Title Generator
 # Init 11-14-18
-# DataLibOrc
+# WulfOrc
 
 import itertools
 
